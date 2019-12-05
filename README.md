@@ -1,6 +1,11 @@
+<div align="center" style="width: 100%; margin-bottom: 3em;">
+    <img src="src/img/regression-analysis.png">
+    <h1 style="color: #FFFFFF; font-family: courier; font-size: 4em;"><b>Regression Models</b></h1>
+</div>
+
 ![version](https://img.shields.io/badge/version-v1.0-yellowgreen.svg) ![Image title](https://img.shields.io/badge/sklearn-0.19.1-orange.svg) ![Image title](https://img.shields.io/badge/seaborn-v0.8.1-yellow.svg) ![Image title](https://img.shields.io/badge/pandas-0.22.0-red.svg) ![Image title](https://img.shields.io/badge/matplotlib-v2.1.2-orange.svg)
 
-# Regression Models
+# Content
 
 This repository contains only projects using regression analysis techniques.
 
@@ -14,7 +19,9 @@ This repository contains only projects using regression analysis techniques.
 * logistic regression project
 
 
-## Contact Information
+## Vitor (Meriat) 🎓 🐍 🔬
+
+### Contact Information
 
 Feel free to contact me:
 
